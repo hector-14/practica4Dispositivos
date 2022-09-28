@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">p47s2120222hmrm</string>
+    <string name="suma">Ir a suma</string>
+    <string name="restar">Ir a restar</string>
+    <string name="multiplicar">Ir a multiplicar</string>
+    <string name="dividir">Ir a dividir</string>
+    <string name="titulosuma">Suma</string>
+    <string name="tituloresta">Resta</string>
+    <string name="titulomultiplicar">Multiplicar</string>
+    <string name="titulodividir">Dividir</string>
+    <string name="calcular">Calcular</string>
+    <string name="regresar">Regresar</string>
+    <string name="lnum1">Ingresa el primer numero</string>
+    <string name="lnum2">Ingresa el segundo numero</string>
+    <string name="place1">Ejemplo: 2</string>
+    <string name="place2">Ejemplo: 3</string>
+    <string name="lresultado">Resultado:</string>
+</resources>
